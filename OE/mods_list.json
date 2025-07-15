@@ -1,3 +1,6 @@
-{
-  
-}
+[
+  "https://tonserveur/mods/optifine.jar",
+  "https://tonserveur/mods/jei.jar",
+  "https://tonserveur/mods/ironchest.jar",
+  "https://tonserveur/mods/thermalexpansion.jar"
+]
